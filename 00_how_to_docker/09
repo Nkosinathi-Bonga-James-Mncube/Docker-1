@@ -1,0 +1,4 @@
+apt-get update
+apt-get install vim
+apt install build-essential
+apt-get install git
